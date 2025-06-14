@@ -1,0 +1,4 @@
+--patch-module
+application.FlappyBird=_
+--add-reads
+application.FlappyBird=ALL-UNNAMED
